@@ -1,4 +1,4 @@
-#!/Users/evgenijkuratov/arp_spoofer/venv/bin/python
+#!/home/user/arp_spoofer/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

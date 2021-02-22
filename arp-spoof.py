@@ -5,7 +5,6 @@ import time
 
 
 TARGET_IP = "192.168.56.104"
-SPOOF_IP = "192.168.56.103"
 GATEWAY_IP = "192.168.56.102"
 
 
